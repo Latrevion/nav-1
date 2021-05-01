@@ -1,1 +1,0 @@
-$('.addButton').on('click',()=>window.prompt('请问您要添加的网址是啥？'))
