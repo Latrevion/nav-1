@@ -1,15 +1,15 @@
 14
 49C:\Users\qupingce\Desktop\xiaogu\nav-1\src\images132643565343686980 1
 59C:\Users\qupingce\Desktop\xiaogu\nav-1\src\images\image.jpg132642369028167211 0
-43C:\Users\qupingce\Desktop\xiaogu\nav-1\dist132643583771499530 1
+43C:\Users\qupingce\Desktop\xiaogu\nav-1\dist132643618838590280 1
 52C:\Users\qupingce\Desktop\xiaogu\nav-1\src\style.css132642498007224593 0
-42C:\Users\qupingce\Desktop\xiaogu\nav-1\src132643565343597223 1
+42C:\Users\qupingce\Desktop\xiaogu\nav-1\src132643587688947752 1
+53C:\Users\qupingce\Desktop\xiaogu\nav-1\src\.gitignore132643618186070223 0
 62C:\Users\qupingce\Desktop\xiaogu\nav-1\src\images\bilibili.jpg132639890647172371 0
-53C:\Users\qupingce\Desktop\xiaogu\nav-1\src\index.html132642451023872964 0
+53C:\Users\qupingce\Desktop\xiaogu\nav-1\src\index.html132643609752889538 0
 50C:\Users\qupingce\Desktop\xiaogu\nav-1\src\main.js132642408181881899 0
-62C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\image.00c0058f.jpg132643583771489561 0
-61C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.0ad99730.js132643583771300060 0
-65C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.0ad99730.js.map132643583771409748 0
-62C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.a622ae85.css132643583771290081 0
-66C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.a622ae85.css.map132643583771399794 0
-54C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.html132643583771300060 0
+61C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.0ad99730.js132643618838450650 0
+65C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.0ad99730.js.map132643618838570355 0
+62C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.a622ae85.css132643618838450650 0
+66C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.a622ae85.css.map132643618838530435 0
+54C:\Users\qupingce\Desktop\xiaogu\nav-1\dist\index.html132643618838440679 0
